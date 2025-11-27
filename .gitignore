@@ -1,0 +1,6 @@
+# locla db connection
+db_connect.py
+
+# python
+.venv/
+__pycache__
